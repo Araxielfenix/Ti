@@ -1,0 +1,99 @@
+body {
+    color: #000000;
+    font-family: "Open Sans", sans-serif;
+    background-color: #fdfcfc;
+}
+
+#logo{
+    margin: 2.5px 5.5px;
+    zoom: 2.7;
+}
+
+.addicon{
+    width: 1.5vw;
+    color: #fdfcfc;
+    fill: #fdfcfc;
+    vertical-align: sub;
+}
+.usericon{
+    width: 1.5vw;
+    color: #fdfcfc;
+    fill: #fdfcfc;
+    vertical-align: sub;
+}
+.nav-accounts-link {
+    color: #ffffff;
+    text-decoration: none;
+    top: 1px;
+    font-size: x-small;
+    vertical-align: middle;
+    margin: auto 7px;
+}
+.nav-accounts-link:hover{
+    color: gray;
+}
+.btn {
+    text-decoration: none;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    border: 0;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    text-transform: uppercase;
+    background: none;
+    -webkit-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+.form-control {
+    display: block;
+    padding: 10px 8px;
+    width: 100%;
+    font-size: 16px;
+    border: 0;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    color: #000000;
+    background-color: #fdfcfc;
+    border-radius: 0;
+}
+.form-control-invert {
+    background-color: rgba(253, 252, 252, 0.1);
+    border: 0;
+    color: #fdfcfc;
+    position: fixed;
+    margin: -11px auto;
+}
+.form-control-invert::-webkit-keygen-select{
+    border-color: #000000;
+}
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    height: 3.5vh;
+}
+.form-control-invert {
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 0;
+    color: #fdfcfc;
+    position: fixed;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    color: white;
+    display: block;
+    padding: 0 14px;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 44px;
+}
